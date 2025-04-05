@@ -1,1 +1,1 @@
-FROM devlikeapro/evolution-api
+FROM wppconnect/evolution-api
